@@ -13,10 +13,10 @@ git submodule add https://github.com/mmalecki/openscad-push-switches push-switch
 ## Usage
 ```openscad
 use <push-switches/push-switches.scad>;
-ps10();
+ps10_push_switch();
 ```
 
 ## API
 
-### `ps10()`
-Draws a [Ninigi PS10 switch](https://www.tme.eu/Document/fd2548d568770839293d3f8a529c3622/ps10b.pdf).
+### `ps10_push_switch()`
+Draws a [Ninigi PS10 push switch](https://www.tme.eu/Document/fd2548d568770839293d3f8a529c3622/ps10b.pdf).
