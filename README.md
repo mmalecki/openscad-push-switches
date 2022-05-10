@@ -20,3 +20,6 @@ ps10_push_switch();
 
 ### `ps10_push_switch()`
 Draws a [Ninigi PS10 push switch](https://www.tme.eu/Document/fd2548d568770839293d3f8a529c3622/ps10b.pdf).
+
+### `pbs10_push_switch()`
+Draws a [PBS10 push switch](https://elstat.pl/file/12538/12072.pdf).
