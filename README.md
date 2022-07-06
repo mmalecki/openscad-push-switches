@@ -1,7 +1,7 @@
 # push-switches
 An OpenSCAD library to draw push switches.
 
-![Example rendering of a PS10 switch](./examples/ps10.png).
+![All switches](./examples/all.png)
 
 ## Installation
 Add a git submodule to your project:
